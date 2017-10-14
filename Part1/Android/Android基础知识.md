@@ -193,6 +193,7 @@ public void onRestoreInstanceState(Bundle savedInstanceState) {
 所以要让非基本类型和非String/CharSequence类型的数据通过Intent/Bundle来进行传输，我们就需要在数据类型中实现Parcelable接口或是Serializable接口。
 
 [http://blog.csdn.net/kkk0526/article/details/7214247](http://blog.csdn.net/kkk0526/article/details/7214247)
+[http://blog.csdn.net/tianzhaoai/article/details/47293511](http://blog.csdn.net/tianzhaoai/article/details/47293511)
 
 **Fragment生命周期**
 
